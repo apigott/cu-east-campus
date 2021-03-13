@@ -1,0 +1,44 @@
+,name,vn_kv,type,zone,in_service
+0,Main Campus,69.0,b,,True
+1,MV Transformer Bus,69.0,n,,True
+2,LV Transformer Bus,15.0,n,,True
+3,LASP,15.0,b,,True
+4,CASA,15.0,b,,True
+5,BIOT,15.0,b,,True
+6,SPSC,15.0,b,,True
+7,SMILEY,15.0,b,,True
+8,RL2,15.0,b,,True
+9,LSRL,15.0,b,,True
+10,IBG,15.0,b,,True
+11,LITR,15.0,b,,True
+12,ARCE,15.0,b,,True
+13,COMP,15.0,b,,True
+14,SSL,15.0,b,,True
+15,HFOC,15.0,b,,True
+16,TRAN,15.0,b,,True
+17,MSSC,15.0,b,,True
+18,HSSC,15.0,b,,True
+19,WIND,15.0,b,,True
+20,SEEC,15.0,b,,True
+21,SEEL,15.0,b,,True
+22,AERO,15.0,b,,True
+23,GH3,15.0,b,,True
+24,SW210,15.0,b,,True
+25,SW200,15.0,b,,True
+26,SW203,15.0,b,,True
+27,SW204,15.0,b,,True
+28,MH085,15.0,b,,True
+29,SW214,15.0,b,,True
+30,MH61,15.0,b,,True
+31,MH301,15.0,b,,True
+32,MH310,15.0,b,,True
+33,T278,15.0,b,,True
+34,MH308,15.0,b,,True
+35,MH307,15.0,b,,True
+36,casa_conn,15.0,b,,True
+37,MH311,15.0,b,,True
+38,MH312,15.0,b,,True
+39,MH314,15.0,b,,True
+40,MH315,15.0,b,,True
+41,MH316,15.0,b,,True
+42,SUB,15.0,b,,True
